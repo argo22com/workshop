@@ -1,5 +1,8 @@
 # Welcome to Argo22 FrontEnd challenge.
 
+![Multi step form preview](./instructions/design/desktop-design-step-1.jpg "The Challenge preview")
+
+
 ## The challenge
 
 Your challenge is to build out this multi-step form and get it looking as close to the design as possible.
